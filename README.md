@@ -1,4 +1,5 @@
 Project Title: Amazon Sales Data Analysis
+
 Overview
 This project entailed in-depth analysis of Amazon sales data using Power BI for data visualization and analytics. I employed Power Query and Excel to clean and structure the dataset, while also developing DAX measures to calculate Key Performance Metrics such as Profit Margins and Top-Performing Product Categories.
 
